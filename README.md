@@ -1,4 +1,4 @@
-ai-ml-gd-Iri25
+Artificial Intelligence
 
 Development of self-learning systems. Regression problems solved with the method decreasing gradient. Evaluating the performance of these methods.
 
